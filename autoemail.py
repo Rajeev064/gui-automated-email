@@ -10,8 +10,8 @@ from email.mime.image import MIMEImage
 import os
 
 subject = 'hi demo test'
-sender_email = "rajeevdemoprojects@gmail.com"
-password = 'Rajeevdemoprojects@012'
+sender_email = "email id"
+password = 'password'
 
 #by using excel
 x1 = pd.ExcelFile('list2.xlsx')
